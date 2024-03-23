@@ -1,2 +1,2 @@
 # LinuxKernelPanic
-How to cause a kernel panic!
+How to cause a kernel panic on Linux!
